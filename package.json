@@ -1,0 +1,13 @@
+{
+  "name": "advent-2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "01-p1": "node challenges/01-p1.js",
+    "01-p2": "node challenges/01-p2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
